@@ -1,35 +1,10 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+Hola, me llamo Lautaro Nicolas Colman, actualmente me encuentro cursando mi cuarto cuatrimestre en la licenciatura de Programacion para Videojuegos.
 
-Bienvenidxs a
-# Programación con objetos I
+Actualmente debido a mi sitaucion me encuentro activamente buscando trabajo, teniendo preferencia por aquellos que contengan dibujos o requieran fuerza fisica, incluso los más simples como limpiador o atencion al cliente podrian venirme bien, pero aun no me contraran
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Desde hace mucho tiempo me intereso la programacion orientada a videojuegos, y apenas me entere que abrian una licenciatura en esta universidad, que ademas me quedaba cerca y era publica, no dude en anotarme.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+En mi futuro me veo como alguien relativamente exitoso, no creo que llegue tan lejos debido a los recursos del pais y el poco apoyo a estos proyectos en esta zona, pero aun asi creo que me alcanzara para poder tener una vida sin muchas vueltas (teniendo en cuenta la cantidad de trabajo excesivo que hay que realizar en estos campos) y vivir relativamaente bien, tampoco soy ambicioso, he visto mucha gente que se rompe al ver que no llegaron a donde esperaban, asi que no espero mucho para ahorrarme esos malos tragos.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Siempre tuve cierto interes en las maquinas, y hace poco eh aprendido como funcionan, los codigos dentro de ellas y cada vez siento más interes por como funcionan, lo cual se me hace fascinante
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
